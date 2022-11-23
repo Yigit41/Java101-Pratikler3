@@ -13,14 +13,14 @@ public class DortVeBesınKuvvetleri {
 		
 		number = input.nextInt();
 		
-		System.out.println("Forces of four");
+		System.out.println("Forces of Four");
 
 		for(int i=1;i<number;i*=4 ) 
 		{
 			
 			System.out.println(i);
 		}
-		System.out.println("Forces of five");
+		System.out.println("Forces of Five");
 		for(int i=1;i<number;i*=5 ) 
 		{
 			
