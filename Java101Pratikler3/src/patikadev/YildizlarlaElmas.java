@@ -36,6 +36,8 @@ public class YildizlarlaElmas {
 
 	            System.out.println();
 	        }
+	      
+	      input.close();
 	}
 
 }

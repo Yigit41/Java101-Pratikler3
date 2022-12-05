@@ -26,7 +26,7 @@ public class UsluSayiHesaplama {
 		}
 		
 		System.out.println("Result : "+result);
-		
+		input.close();
 	}
-
+	
 }

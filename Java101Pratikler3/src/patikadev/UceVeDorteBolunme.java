@@ -43,7 +43,7 @@ public class UceVeDorteBolunme {
 		System.out.println("\nTotal "+"- " +counter+" -"+ " numbers found");
 		System.out.println("Average of numbers from 0 to "+number+ " divisible by 3 and 4 : "+average);
 
-
+		input.close();
 		
 	}
 

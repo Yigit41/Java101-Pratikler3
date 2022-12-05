@@ -33,6 +33,8 @@ public class Kombinasyon {
 		comb = factN/(factR*factNR);
 		
 		System.out.println("Combination : "+comb);
+		
+		input.close();
 	}
 
 }

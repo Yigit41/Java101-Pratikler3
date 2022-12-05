@@ -20,6 +20,8 @@ public class DordunKatlari {
 		}
 
 		System.out.println("Sum : " + sum);
+		
+		input.close();
 	}
 
 }

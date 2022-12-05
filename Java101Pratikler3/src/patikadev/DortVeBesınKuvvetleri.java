@@ -26,6 +26,8 @@ public class DortVeBesınKuvvetleri {
 			
 			System.out.println(i);
 		}
+		
+		input.close();
 	}
 
 }

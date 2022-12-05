@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BasamakSayilarininToplami {
 
 	public static void main(String[] args) {
-		int number, numberCounter = 0, residual, result = 0;
+		int number, residual, result = 0;
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("Please enter a number  :  ");
@@ -18,6 +18,7 @@ public class BasamakSayilarininToplami {
 		}
 
 		System.out.println("Result  : " + result);
+		input.close();
 	}
 
 }

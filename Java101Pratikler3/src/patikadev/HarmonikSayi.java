@@ -22,7 +22,9 @@ public class HarmonikSayi {
 	        }
 	        System.out.println(result);
 		
-		
+	        input.close();
+	        
+	        input.close();
 	}
 
 }

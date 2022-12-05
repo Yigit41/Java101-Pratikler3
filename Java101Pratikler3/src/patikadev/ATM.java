@@ -63,7 +63,7 @@ public class ATM {
 	        }
 		 
 		 
-		 
+		 input.close();
 		 
 	}
 }
